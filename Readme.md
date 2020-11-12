@@ -1,10 +1,10 @@
 # 인공지능 기본
 
 ### 나의 홈페이지
-  * 나의 홈페이지 주소 : ____
+  * 나의 홈페이지 주소 : https://sokowe.github.io/AI_start
 
 ### 시각화 프로젝트 
-  * IRIS 데이터 분석해 보기 - [LINK](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
+  * IRIS 데이터 분석해 보기 - [LINK](https://sokowe.github.io/AI_start/FirstStep_DataVis01.html)
 
 ### 캐글 데이터 분석 대회 참여기.
   * 데이터 대회 링크 :
