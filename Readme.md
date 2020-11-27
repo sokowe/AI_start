@@ -1,7 +1,7 @@
 # 인공지능 기본
 
 ### 나의 홈페이지
-  * 나의 홈페이지 주소 : https://sokowe.github.io/AI_start
+  * 나의 홈페이지 주소 : [LINK](https://sokowe.github.io/AI_start)
 
 ### 시각화 프로젝트 
   * IRIS 데이터 분석해 보기 - [LINK](https://sokowe.github.io/AI_start/FirstStep_DataVis01.html)
