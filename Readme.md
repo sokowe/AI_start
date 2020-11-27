@@ -36,4 +36,4 @@
 ### 캐글  코리아 4차 대회 분석
 
 ### 공공데이터 분석
-  * 전라남도 나주시 공공시설개방정보 108곳 : [HTML](https://sokowe.github.io/AI_start/naju.html)
+  * 전라남도 나주시 공공시설개방정보 108곳 : [LINK](https://sokowe.github.io/AI_start/naju.html)
